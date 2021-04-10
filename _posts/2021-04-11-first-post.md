@@ -19,10 +19,10 @@ membuat strikeline `~~strikeline~~`
 > ~~strikeline~~
 
 membuat link `[link ke youtube](youtube.com)`
-> [link ke youtube](youtube.com)
+> [link ke youtube](https://youtube.com)
 
 membuat link `[link ke youtube](youtube.com)` dengan title
-> [link ke youtube](youtube.com "lets go")
+> [link ke youtube](https://youtube.com "lets go")
 
 menambahkan gambar `![ini foto mimin](https://github.com/linux-care/linux-care.github.io/blob/main/assets/img/pic.jpg)`
 >![ini foto mimin](https://github.com/linux-care/linux-care.github.io/blob/main/assets/img/pic.jpg)
@@ -34,7 +34,7 @@ membuat list menggunakan `* dan -`
 membuat source code menggunakan  
 ` ``` ` </br>
      ini source code</br>
-     
+
 ` ``` `
 
 ```
