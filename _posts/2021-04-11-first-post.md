@@ -25,7 +25,10 @@ membuat link `[link ke youtube](youtube.com)` dengan title
 > [link ke youtube](https://youtube.com "lets go")
 
 menambahkan gambar `![ini foto mimin](https://github.com/linux-care/linux-care.github.io/blob/main/assets/img/pic.jpg)`
->![ini foto mimin](https://github.com/linux-care/linux-care.github.io/blob/main/assets/img/pic.jpg)
+
+</br>
+
+![ini foto mimin](https://github.com/linux-care/linux-care.github.io/blob/main/assets/img/pic.jpg)
 
 membuat list menggunakan `* dan -`
 >* list satu `ini menggunakan *`
