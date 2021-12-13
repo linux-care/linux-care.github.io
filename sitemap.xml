@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://linux-care.github.io/posts/first-post/</loc>
+<lastmod>2021-12-13T23:57:18+08:00</lastmod>
+</url>
+<url>
+<loc>https://linux-care.github.io/categories/</loc>
+<lastmod>2021-12-14T00:15:49+08:00</lastmod>
+</url>
+<url>
+<loc>https://linux-care.github.io/tags/</loc>
+<lastmod>2021-12-14T00:15:49+08:00</lastmod>
+</url>
+<url>
+<loc>https://linux-care.github.io/archives/</loc>
+<lastmod>2021-12-14T00:15:49+08:00</lastmod>
+</url>
+<url>
+<loc>https://linux-care.github.io/about/</loc>
+<lastmod>2021-12-14T00:15:49+08:00</lastmod>
+</url>
+<url>
+<loc>https://linux-care.github.io/</loc>
+</url>
+<url>
+<loc>https://linux-care.github.io/tags/markdown/</loc>
+</url>
+<url>
+<loc>https://linux-care.github.io/categories/blog/</loc>
+</url>
+</urlset>
