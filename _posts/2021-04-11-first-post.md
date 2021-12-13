@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ini adalah postingan pertama saya'
+title: 'Yuk belajar Markdown'
 date: '2021-04-11 01:30:22 +0800'
 categories: blog
 tags: markdown
@@ -10,7 +10,7 @@ tags: markdown
 ---
 
 membuat teks miring  `*teks miring*`
-> *teks miring* 
+> *teks miring*
 
 membuat teks tebal `**teks tebal**`
 > **teks tebal**
@@ -39,3 +39,6 @@ membuat source code menggunakan  ```
 ini source code
 ```
 
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
+
+[![Mozilla Add-on](https://img.shields.io/amo/dw/linux-care?style=flat-square)](https://youtube.com)
